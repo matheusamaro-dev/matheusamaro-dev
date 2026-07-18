@@ -22,7 +22,9 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, buscando integrar m
 
 ## 🚀 Projeto principal
 
-### Nexus Monitor Enterprise
+### [Nexus Monitor Enterprise](https://github.com/matheusamaro-dev/nexus-monitor-enterprise-showcase)
+
+[🔎 Conheça a apresentação pública do projeto](https://github.com/matheusamaro-dev/nexus-monitor-enterprise-showcase)
 
 O **Nexus Monitor Enterprise** é uma plataforma de engenharia desenvolvida para monitoramento, documentação e representação de infraestruturas críticas.
 
