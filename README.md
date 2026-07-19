@@ -1,4 +1,10 @@
- <h1 align="center">Olá, eu sou Matheus Amaro 👋</h1>
+ <p align="center">
+  <img
+    src="./github-profile-banner.png"
+    alt="Matheus Amaro — Ferrovia, infraestrutura crítica, Linux e automação"
+    width="100%">
+</p>
+<h1 align="center">Olá, eu sou Matheus Amaro 👋</h1>
 
 <h3 align="center">
 Técnico de Manutenção | Infraestrutura Crítica | Linux | Automação
