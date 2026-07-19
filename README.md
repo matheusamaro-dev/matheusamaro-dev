@@ -8,6 +8,17 @@ Técnico de Manutenção | Infraestrutura Crítica | Linux | Automação
 Profissional de manutenção e tecnologia, com experiência em sistemas ferroviários, servidores, virtualização, diagnóstico de falhas e desenvolvimento de soluções para monitoramento.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-amaro-costa">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Amaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn de Matheus Amaro">
+  </a>
+
+  <a href="https://github.com/matheusamaro-dev/nexus-monitor-enterprise-showcase">
+    <img src="https://img.shields.io/badge/Nexus-Monitor%20Enterprise-39FF14?style=for-the-badge&logo=github&logoColor=black"
+         alt="Nexus Monitor Enterprise">
+  </a>
+</p>
 ---
 
 ## 👨‍💻 Sobre mim
