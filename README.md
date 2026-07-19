@@ -19,7 +19,7 @@ Profissional de manutenção e tecnologia, com experiência em sistemas ferrovi�
          alt="Nexus Monitor Enterprise">
   </a>
 </p>
----
+<hr>
 
 ## 👨‍💻 Sobre mim
 
