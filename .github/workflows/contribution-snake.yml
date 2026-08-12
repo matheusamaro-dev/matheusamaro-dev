@@ -1,0 +1,47 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/contribution-snake.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Generate contribution animation
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated SVGs
+        run: |
+          mkdir -p assets/contributions
+          cp dist/github-contribution-grid-snake.svg assets/contributions/github-contribution-grid-snake.svg
+          cp dist/github-contribution-grid-snake-dark.svg assets/contributions/github-contribution-grid-snake-dark.svg
+
+          if git diff --quiet -- assets/contributions; then
+            echo "Contribution animation already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions
+          git commit -m "chore(profile): refresh contribution animation"
+          git push
