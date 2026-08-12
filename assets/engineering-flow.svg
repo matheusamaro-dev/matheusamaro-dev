@@ -20,12 +20,12 @@
   <text x="34" y="35" fill="#39ff14" font-size="14" font-weight="700">ENGINEERING PIPELINE // CONTINUOUS EVOLUTION</text>
   <path d="M90 94 H1010" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
 
-  <g transform="translate(35,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Discovery</text><text class="sub" x="65" y="47" text-anchor="middle">problema real</text></g>
+  <g transform="translate(35,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Descoberta</text><text class="sub" x="65" y="47" text-anchor="middle">problema real</text></g>
   <g transform="translate(185,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Requisitos</text><text class="sub" x="65" y="47" text-anchor="middle">rastreabilidade</text></g>
   <g transform="translate(335,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Arquitetura</text><text class="sub" x="65" y="47" text-anchor="middle">modularidade</text></g>
-  <g transform="translate(485,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Build</text><text class="sub" x="65" y="47" text-anchor="middle">automação</text></g>
+  <g transform="translate(485,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle" font-size="15">Implementação</text><text class="sub" x="65" y="47" text-anchor="middle">automação</text></g>
   <g transform="translate(635,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Testes</text><text class="sub" x="65" y="47" text-anchor="middle">validação</text></g>
-  <g transform="translate(785,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Observação</text><text class="sub" x="65" y="47" text-anchor="middle">evidências</text></g>
+  <g transform="translate(785,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle" font-size="13">Observabilidade</text><text class="sub" x="65" y="47" text-anchor="middle">evidências</text></g>
   <g transform="translate(935,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Evolução</text><text class="sub" x="65" y="47" text-anchor="middle">melhoria contínua</text></g>
 
   <circle r="7" fill="#39ff14" filter="url(#glow)">
