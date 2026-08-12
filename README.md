@@ -1,52 +1,50 @@
 <p align="center">
-  <img
-    src="./github-profile-banner.png"
-    alt="Matheus Amaro — Ferrovia, infraestrutura crítica, Linux e automação"
-    width="100%">
+  <img src="./github-profile-banner.png" alt="Matheus Amaro — infraestrutura crítica, Linux, automação e desenvolvimento" width="100%">
 </p>
 
-<h1 align="center">Olá, eu sou Matheus Amaro 👋</h1>
-
-<h3 align="center">
-Técnico de Manutenção | Estudante de ADS | Linux | Automação | Desenvolvimento de Software
-</h3>
+<h1 align="center">Matheus Amaro</h1>
+<h3 align="center">Técnico de Manutenção • Estudante de ADS • Linux • Automação • Desenvolvimento de Software</h3>
 
 <p align="center">
   <img src="./assets/profile-typing.svg" alt="Áreas de atuação e estudo de Matheus Amaro" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-amaro-costa">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Amaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Matheus Amaro">
-  </a>
-  <a href="https://github.com/matheusamaro-dev/nexus-monitor-enterprise-showcase">
-    <img src="https://img.shields.io/badge/Nexus-Monitor%20Enterprise-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="Nexus Monitor Enterprise">
-  </a>
+  <a href="https://www.linkedin.com/in/matheus-amaro-costa"><img src="https://img.shields.io/badge/LinkedIn-Matheus%20Amaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:matheus.amaro.dev@outlook.com"><img src="https://img.shields.io/badge/Contato-matheus.amaro.dev%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail profissional"></a>
+  <a href="https://github.com/matheusamaro-dev/nexus-monitor-enterprise-showcase"><img src="https://img.shields.io/badge/Nexus-Monitor%20Enterprise-39FF14?style=for-the-badge&logo=github&logoColor=000000" alt="Nexus Monitor Enterprise"></a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Perfil profissional
 
-Sou **Técnico de Manutenção – Sinalização**, com experiência em sistemas ferroviários de missão crítica, infraestrutura de servidores, virtualização, diagnóstico de falhas e suporte a ambientes operacionais.
+Atuo em **manutenção e tecnologia para sistemas de missão crítica**, com experiência em infraestrutura de servidores, virtualização, redes, diagnóstico de falhas e suporte a ambientes ferroviários.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, ampliando minha atuação em **desenvolvimento de software, Linux, automação, redes, documentação técnica e engenharia de software**.
+Curso **Análise e Desenvolvimento de Sistemas** e direciono minha evolução para a interseção entre **infraestrutura, automação e desenvolvimento de software**. Nos meus projetos, procuro transformar problemas reais em soluções rastreáveis, seguras, documentadas e orientadas por evidências.
 
-Meu objetivo é integrar a experiência prática em infraestrutura crítica ao desenvolvimento de soluções tecnológicas confiáveis, seguras, organizadas e baseadas em evidências.
+> **Princípio de engenharia:** entender o problema antes de automatizar a solução.
 
 ---
 
-## 💻 Stack tecnológica
+## ⚙️ Stack tecnológica
 
-### Sistemas e infraestrutura
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🖥️ Sistemas & Infraestrutura
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Solaris-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![RHEL](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Solaris](https://img.shields.io/badge/Oracle%20Solaris-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-111111?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Networking](https://img.shields.io/badge/Redes-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Desenvolvimento e automação
+</td>
+<td valign="top" width="33%">
+
+### 💻 Desenvolvimento & Automação
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,95 +53,143 @@ Meu objetivo é integrar a experiência prática em infraestrutura crítica ao d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Dados, observabilidade e documentação
+</td>
+<td valign="top" width="33%">
+
+### 📊 Dados & Observabilidade
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Monitoring](https://img.shields.io/badge/Monitoramento-1F6FEB?style=for-the-badge&logo=grafana&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentação-555555?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Docs](https://img.shields.io/badge/Documentação-555555?style=for-the-badge&logo=readthedocs&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20PM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 🧪 Em desenvolvimento acadêmico e projetos
+
+![Flutter](https://img.shields.io/badge/Flutter-Em%20desenvolvimento-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Em%20desenvolvimento-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Engenharia%20de%20Software-Estudo%20aplicado-6E40C9?style=flat-square)
+![Requirements](https://img.shields.io/badge/Engenharia%20de%20Requisitos-Estudo%20aplicado-0969DA?style=flat-square)
+
+---
+
+## 🧭 Engenharia aplicada aos projetos
+
+<p align="center">
+  <img src="./assets/engineering-flow.svg" alt="Fluxo de engenharia aplicado aos projetos" width="100%">
+</p>
+
+`Discovery` → `Requisitos` → `Arquitetura` → `Implementação` → `Testes` → `Observabilidade` → `Evolução`
+
+Priorizo **segurança operacional, modularidade, legibilidade, documentação, versionamento e validação baseada em evidências**.
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🟢 [Nexus Monitor Enterprise](https://github.com/matheusamaro-dev/nexus-monitor-enterprise-showcase)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Plataforma modular de engenharia para **monitoramento, documentação e representação de infraestruturas críticas**, desenvolvida com foco em segurança operacional, organização de informações e análise técnica.
+### 🟢 Nexus Monitor Enterprise
 
-**Destaques:**
-- Monitoramento de servidores e aplicações
-- Visualização de infraestrutura e virtualização
-- Organização de indicadores e históricos
+**Plataforma modular para monitoramento e representação de infraestruturas críticas.**
+
 - Dashboards operacionais
+- Monitoramento de servidores e aplicações
+- Virtualização e infraestrutura
+- Histórico e indicadores
 - Arquitetura modular
+- Operação somente leitura
+- Showcase público com dados fictícios
+
+**Stack:** `Linux` `Shell Script` `HTML` `CSS` `JavaScript` `JSON` `CSV` `Git`
+
+[**→ Explorar projeto**](https://github.com/matheusamaro-dev/nexus-monitor-enterprise-showcase)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Linux Server Health Check
+
+**Diagnóstico rápido e seguro de servidores Linux em Shell Script.**
+
+- CPU, memória, disco e carga
+- Rede e conectividade
+- Serviços com falha
+- Classificação de saúde
 - Modo somente leitura
-- Dados públicos fictícios na versão showcase
+- Roadmap de exportação CSV/JSON
 
-**Tecnologias:** `Linux` `Shell Script` `HTML` `CSS` `JavaScript` `JSON` `CSV` `Git`
+**Stack:** `Bash` `Linux` `awk` `grep` `sed` `systemd` `Git`
 
-### 🩺 [Linux Server Health Check](https://github.com/matheusamaro-dev/linux-server-health-check)
+[**→ Explorar projeto**](https://github.com/matheusamaro-dev/linux-server-health-check)
 
-Ferramenta em **Shell Script** para diagnóstico rápido e seguro da saúde de servidores Linux, realizando verificações de sistema, CPU, memória, disco, rede, carga e serviços sem alterar o ambiente analisado.
+</td>
+</tr>
+</table>
 
-**Tecnologias:** `Bash` `Linux` `awk` `grep` `sed` `systemd` `Git`
+### 💰 Nexus Finance — laboratório de desenvolvimento mobile
 
-### 💰 [Nexus Finance](https://github.com/matheusamaro-dev/nexus-finance)
+Aplicação financeira em evolução utilizada como ambiente de aprendizado em **Flutter/Dart**, arquitetura de aplicação e organização de produto.
 
-Projeto em evolução voltado ao desenvolvimento de uma aplicação financeira. Atualmente permanece em fase inicial de estruturação e documentação.
-
-**Status:** em desenvolvimento.
+[**→ Acompanhar evolução**](https://github.com/matheusamaro-dev/nexus-finance)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=matheusamaro-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Matheus Amaro">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheusamaro-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas nos repositórios públicos de Matheus Amaro">
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=matheusamaro-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub de Matheus Amaro">
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheusamaro-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas nos repositórios públicos de Matheus Amaro">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=matheusamaro-dev&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub de Matheus Amaro">
+  <img src="https://streak-stats.demolab.com/?user=matheusamaro-dev&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly" alt="Consistência de contribuições no GitHub">
 </p>
 
+### 🐍 Atividade de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições de Matheus Amaro" src="./assets/contributions/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+> A animação acima é atualizada automaticamente por **GitHub Actions**.
+
 ---
 
-## 🧭 Engenharia e forma de trabalho
-
-Nos meus projetos, procuro aplicar princípios de engenharia desde a definição do problema até a validação da solução:
-
-`Requisitos` → `Arquitetura` → `Implementação` → `Testes` → `Documentação` → `Evolução`
-
-Tenho interesse especial em projetos que conectem **software e infraestrutura**, principalmente em cenários nos quais confiabilidade, segurança, observabilidade e rastreabilidade são relevantes.
-
----
-
-## 📚 Atualmente estudando
+## 📚 Radar de aprendizado
 
 - Análise e Desenvolvimento de Sistemas
-- Desenvolvimento web
-- Engenharia de software
-- Engenharia de requisitos
-- Arquitetura de software
-- Shell Script
-- Redes de computadores
-- Segurança de sistemas
-- Monitoramento de infraestrutura
+- Desenvolvimento Web
+- Engenharia de Software e Requisitos
+- Arquitetura de Software
+- Linux e Shell Script
+- Redes de Computadores
+- Segurança de Sistemas
+- Monitoramento e Observabilidade
+- Flutter e Dart
 
 ---
 
-## 🎯 Objetivo profissional
+## 🎯 Direção profissional
 
-Continuar evoluindo na integração entre **infraestrutura crítica, automação e desenvolvimento de software**, contribuindo para a criação de soluções confiáveis, seguras, documentadas e orientadas à resolução de problemas reais.
+Evoluir na integração entre **infraestrutura crítica, automação e desenvolvimento de software**, contribuindo para soluções em que **confiabilidade, segurança, observabilidade e rastreabilidade** sejam requisitos de engenharia — não apenas funcionalidades adicionais.
 
 ---
 
-## 🤝 Conexões profissionais
-
-Tenho interesse em conexões, colaboração e troca de conhecimentos sobre:
-
-`Linux` `Automação` `Infraestrutura` `Monitoramento` `Desenvolvimento de Software` `Tecnologia Ferroviária`
+## 🤝 Conexões
 
 <p align="center">
-  <sub>Construindo conhecimento entre infraestrutura, operação e software.</sub>
+  <strong>Linux • Automação • Infraestrutura • Monitoramento • Desenvolvimento de Software • Tecnologia Ferroviária</strong>
+</p>
+
+<p align="center">
+  <sub>Construindo a ponte entre operação, infraestrutura e software.</sub>
 </p>
