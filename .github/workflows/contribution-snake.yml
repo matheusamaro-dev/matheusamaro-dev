@@ -35,7 +35,7 @@ jobs:
           cp dist/github-contribution-grid-snake.svg assets/contributions/github-contribution-grid-snake.svg
           cp dist/github-contribution-grid-snake-dark.svg assets/contributions/github-contribution-grid-snake-dark.svg
 
-          if git diff --quiet -- assets/contributions; then
+          if [ -z "$(git status --porcelain -- assets/contributions)" ]; then
             echo "Contribution animation already up to date."
             exit 0
           fi
