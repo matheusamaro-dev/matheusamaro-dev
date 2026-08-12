@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="170" viewBox="0 0 1100 170" role="img" aria-label="Fluxo de engenharia aplicado aos projetos">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#39ff14"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .title { fill:#e6edf3; font-size:17px; font-weight:700; }
+    .sub { fill:#8b949e; font-size:12px; }
+    .box { fill:#0d1117; stroke:#30363d; stroke-width:1.5; }
+  </style>
+  <rect x="1" y="1" width="1098" height="168" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <text x="34" y="35" fill="#39ff14" font-size="14" font-weight="700">ENGINEERING PIPELINE // CONTINUOUS EVOLUTION</text>
+  <path d="M90 94 H1010" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+
+  <g transform="translate(35,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Discovery</text><text class="sub" x="65" y="47" text-anchor="middle">problema real</text></g>
+  <g transform="translate(185,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Requisitos</text><text class="sub" x="65" y="47" text-anchor="middle">rastreabilidade</text></g>
+  <g transform="translate(335,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Arquitetura</text><text class="sub" x="65" y="47" text-anchor="middle">modularidade</text></g>
+  <g transform="translate(485,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Build</text><text class="sub" x="65" y="47" text-anchor="middle">automação</text></g>
+  <g transform="translate(635,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Testes</text><text class="sub" x="65" y="47" text-anchor="middle">validação</text></g>
+  <g transform="translate(785,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Observação</text><text class="sub" x="65" y="47" text-anchor="middle">evidências</text></g>
+  <g transform="translate(935,61)"><rect class="box" width="130" height="67" rx="10"/><text class="title" x="65" y="28" text-anchor="middle">Evolução</text><text class="sub" x="65" y="47" text-anchor="middle">melhoria contínua</text></g>
+
+  <circle r="7" fill="#39ff14" filter="url(#glow)">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M90 94 H1010"/>
+  </circle>
+</svg>
